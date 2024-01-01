@@ -4,6 +4,9 @@
 
 - [zerotomastery-devops-bootcamp-learn-linux](#zerotomastery-devops-bootcamp-learn-linux)
   - [Table of Contents](#table-of-contents)
-  - [01\_Course\_Outline](#01_course_outline)
+  - [1. Course Outline](#1-course-outline)
+  - [2.Setting Up the Environment](#2setting-up-the-environment)
 
-## 01_Course_Outline
+## 1. Course Outline
+
+## 2.Setting Up the Environment
